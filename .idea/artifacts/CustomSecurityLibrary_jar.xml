@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CustomSecurityLibrary:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CustomSecurityLibrary_jar</output-path>
+    <root id="archive" name="CustomSecurityLibrary.jar">
+      <element id="module-output" name="CustomSecurityLibrary" />
+    </root>
+  </artifact>
+</component>
